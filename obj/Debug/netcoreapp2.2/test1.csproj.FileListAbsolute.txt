@@ -1,0 +1,14 @@
+/Users/ariel/Projects/openshift/test1/bin/Debug/netcoreapp2.2/test1.deps.json
+/Users/ariel/Projects/openshift/test1/bin/Debug/netcoreapp2.2/test1.runtimeconfig.json
+/Users/ariel/Projects/openshift/test1/bin/Debug/netcoreapp2.2/test1.runtimeconfig.dev.json
+/Users/ariel/Projects/openshift/test1/bin/Debug/netcoreapp2.2/test1.dll
+/Users/ariel/Projects/openshift/test1/bin/Debug/netcoreapp2.2/test1.pdb
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.csprojAssemblyReference.cache
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.csproj.CoreCompileInputs.cache
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.RazorAssemblyInfo.cache
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.RazorAssemblyInfo.cs
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.AssemblyInfoInputs.cache
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.AssemblyInfo.cs
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.RazorTargetAssemblyInfo.cache
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.dll
+/Users/ariel/Projects/openshift/test1/obj/Debug/netcoreapp2.2/test1.pdb
